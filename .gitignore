@@ -1,0 +1,8 @@
+*.pyc
+*.py~
+
+data/
+*.pkl
+
+output/*
+/baseline/output/
